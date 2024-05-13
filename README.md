@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : VARSHA A
-Register Number : 212223220121
+Developed by : REVATHI D
+Register Number : 212221240045
 
 ## C program that receives a message from message queue and display them
 
@@ -91,8 +91,7 @@ int main()
 
 ## OUTPUT
 
-![322689185-a0a860cf-105e-41c7-9dad-00baaa58ff9c](https://github.com/04Varsha/Linux-IPC-Message-Queues/assets/149035374/92240eb9-ab6b-49fc-a962-e229e4d045ff)
-
+![323339920-92240eb9-ab6b-49fc-a962-e229e4d045ff](https://github.com/Revathi-Dayalan/Linux-IPC-Message-Queues/assets/96000574/4b9319d3-b0af-4e09-a449-82888f816096)
 
 
 # RESULT:
